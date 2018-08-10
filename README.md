@@ -5,9 +5,7 @@ We are freelance developers. Building our own apps and help you build your dream
 ## Implementation
 Founded in 2018. Over the past months, we have developed over 10 mobile and web apps. We are committed to helping our clients design & develop innovative, unique web solutions that effectively resolve even the most complex of business challenges. We use the latest tools and techniques to build powerful, responsive applications in a solid and secure way.
 
-Mobile/Tablet Apps of All Kinds
-eCommerce: Web and Mobile
-Mobile Games
+Mobile/Tablet Apps of All Kinds, eCommerce: Web and Mobile, Mobile Games
 
 
 ## Authors
