@@ -14,7 +14,7 @@ Mobile/Tablet Apps of All Kinds, eCommerce: Web and Mobile, Mobile Games
 
 ## Supports
 
-If you would like to talk to us, please contact renarasup@gmail.com.
+If you would like to talk to us, regarding new apps or existing apps we have built, please contact renarasup@gmail.com.
 
 
 ## License
