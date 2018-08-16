@@ -1,3 +1,8 @@
+
+## Supports
+
+If you would like to talk to us, regarding new apps or existing apps we have built, please contact renarasup@gmail.com.
+
 # AboutRenara
 
 We are freelance developers. Building our own apps and help you build your dream mobile applications.
@@ -10,12 +15,6 @@ Mobile/Tablet Apps of All Kinds, eCommerce: Web and Mobile, Mobile Games
 
 ## Authors
  - *Initial work* - [MDTaps](https://github.com/Renarasup)
-
-
-## Supports
-
-If you would like to talk to us, regarding new apps or existing apps we have built, please contact renarasup@gmail.com.
-
 
 ## License
 
