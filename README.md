@@ -1,9 +1,9 @@
 
 # Supports
 
-If you would like to talk to us, regarding new apps or existing apps we have built, please contact cactusdev220@gmail.com.
+If you would like to talk to us, regarding new apps or existing apps we have built, please contact renarasup@gmail.com.
 
-## About CactusDev
+## About Renara
 
 We are freelance developers. Building our own apps and help you build your dream mobile applications.
 
