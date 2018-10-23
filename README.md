@@ -22,6 +22,7 @@ Official WeChat public number: renaras_group
 
 Official Weibo: renaras_group
 
+Additionally, you may send us a message by filling the form in the link below: https://docs.google.com/forms/d/e/1FAIpQLScG6wwKCu-RzyeFsxvEDfVTqq0lLBaQ6jErQkGRSrwdn-jQTg/viewform
 
 ## About Renara
 
