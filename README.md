@@ -2,7 +2,7 @@
 # Renara-Technical Support
 
 
-<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/82983521/original/7dba4a9bc3ff9fc7788d57ad1eddc6890f67d8a3/provide-technical-support-for-ms-window-and-servers.jpg" width="200" height="200">
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/82983521/original/7dba4a9bc3ff9fc7788d57ad1eddc6890f67d8a3/provide-technical-support-for-ms-window-and-servers.jpg" height="200">
 
 ## Ideas
 If you have good creative design or mobile development suggestions, please don hesitate to share with via email address below.
