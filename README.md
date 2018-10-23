@@ -1,7 +1,27 @@
 
-# Supports
+# Renara-Technical Support
 
-If you would like to talk to us, regarding new apps or existing apps we have built, please contact renarasup@gmail.com.
+
+<img src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto/gigs/82983521/original/7dba4a9bc3ff9fc7788d57ad1eddc6890f67d8a3/provide-technical-support-for-ms-window-and-servers.jpg" width="200" height="200">
+
+## Ideas
+If you have good creative design or mobile development suggestions, please don hesitate to share with via email address below.
+
+
+## Problems
+If you encounter any problems or difficulties in using our products, please feel free to contact us and we will do our best to solve them!
+
+
+## Questions
+No matter what are your questions, write to us, and we will get back to you as soon as possible!
+
+
+Email address: renarasup@gmail.com
+
+Official WeChat public number: renaras_group
+
+Official Weibo: renaras_group
+
 
 ## About Renara
 
